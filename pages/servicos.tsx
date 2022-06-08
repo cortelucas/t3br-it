@@ -9,7 +9,7 @@ const Services: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>T3BR - IT | Quem Somos</title>
+        <title>T3BR - IT | Serviços</title>
         <meta name="description" content="IT T3BR" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

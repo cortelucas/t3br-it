@@ -53,8 +53,9 @@
 }
 
 .description {
-  margin: 4rem 0;
+  margin: 1rem 0;
   line-height: 1.5;
+  color: #268513;
   font-size: 1.5rem;
 }
 
@@ -115,4 +116,23 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+.link {
+  color: #cecece;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #268513;
+  text-shadow: 0 10px 15px #268513;
+}
+
+.menu_item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  padding: 0.5rem;
+  margin: 0.5rem;
 }

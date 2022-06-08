@@ -121,6 +121,7 @@
 .link {
   color: #cecece;
   text-decoration: none;
+  padding: 1rem;
 }
 
 .link:hover {
